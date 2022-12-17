@@ -297,16 +297,14 @@ a {
 }
 .footer__column-author {
   line-height: 25px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight: normal;
 }
-
 .footer__column-heading {
   line-height: 30px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight: 600;
 }
-
 .footer__column-links {
   padding-top: 20px;
   display: flex;
@@ -316,7 +314,7 @@ a {
 .column-link {
   color: white;
   line-height: 30px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight: normal;
 }
 .column-link-image {
