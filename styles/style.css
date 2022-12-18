@@ -1,7 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+
 a {
   text-decoration: none;
 }
@@ -27,6 +24,7 @@ a {
   padding-bottom: 100px;
   position: relative;
   background-color: #f2f2f2;
+  margin: 0 auto;
 }
 .logo {
   width: 228px;
@@ -119,7 +117,7 @@ a {
 }
 
 .digits {
-  margin: 0%;
+  margin: 0 auto;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -178,7 +176,7 @@ a {
 }
 
 .feynman {
-  margin: 0%;
+  margin: 0 auto;
   position: relative;
   display: flex;
   min-height: 890px;
@@ -229,6 +227,7 @@ a {
   overflow: hidden;
   padding-top: 80px;
   padding-bottom: 80px;
+  margin: 0 auto;
 }
 .kaufman__triangle {
   width: 877px;
@@ -299,6 +298,7 @@ a {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  padding-bottom: 18px;
 }
 .footer__column-heading {
   line-height: 30px;
