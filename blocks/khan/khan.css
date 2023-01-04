@@ -1,0 +1,9 @@
+.khan{
+  display: flex;
+  position: relative;
+  max-width: 80%;
+  flex-direction: column;
+  padding-top: 105px;
+  justify-content: flex-start;
+  margin: 0 auto;
+}
