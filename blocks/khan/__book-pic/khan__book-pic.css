@@ -2,6 +2,7 @@
   width: 620px;
   max-height: 608px;
   padding-right: 48px;
-  object-position: 50% 50%;
+  object-position: top;
   background-size: cover;
+  object-fit: cover;
 }
