@@ -7,6 +7,5 @@
   display: flex;
   justify-content: center;
   background-color:  #f2f2f2;
-  min-width: 784px;
-  width: 80%;
+  z-index: -1;
 }
